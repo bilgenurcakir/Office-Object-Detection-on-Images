@@ -17,5 +17,6 @@ Bu proje, **kendi oluşturduğum ve Roboflow’da etiketlediğim dataseti** kull
   
 ### server.py
 - Modeli kullanarak **canlı kamera üzerinden nesne tespiti** yapar.
-  
+
+  [![Video’yu izle](https://img.youtube.com/vi/acMw_eLZSTk/maxresdefault.jpg)](https://youtu.be/acMw_eLZSTk)
 
