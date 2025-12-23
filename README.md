@@ -18,4 +18,4 @@ Bu proje, **kendi oluşturduğum ve Roboflow’da etiketlediğim dataseti** kull
 ### server.py
 - Modeli kullanarak **canlı kamera üzerinden nesne tespiti** yapar.
   
-  
+![Video Önizlemesi](video.mp4)
