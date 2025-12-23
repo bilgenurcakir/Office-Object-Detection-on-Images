@@ -14,8 +14,8 @@ Bu proje, **kendi oluşturduğum ve Roboflow’da etiketlediğim dataseti** kull
 
 ### `main.py`
 - Modeli kullanarak **tekil görsellerden nesne tespiti** yapar.
-- 
+  
 ### server.py
 - Modeli kullanarak **canlı kamera üzerinden nesne tespiti** yapar.
-- 
+  
   
