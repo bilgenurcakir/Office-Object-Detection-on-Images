@@ -5,7 +5,7 @@ Bu proje, **kendi oluşturduğum ve Roboflow’da etiketlediğim dataseti** kull
 ## Dosyaların Açıklamaları
 
 ### `model_train.ipynb`
-- Kendi oluşturduğum dataset’i kullanarak modelimizi eğitir.
+- Kendi oluşturduğum dataset’i kullanarak modelimizi eğittik.
 - Eğitim tamamlandığında **`best.py`** dosyası üretilir; bu dosya en iyi model ağırlıklarını içerir.
 
 ### `best.py`
